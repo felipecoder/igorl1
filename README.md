@@ -1,9 +1,9 @@
 
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Igor Oliveira</h1>
 
-<a href="https://app.rocketseat.com.br/me/igoroliveira/" target="_blank" rel="nofollow"><img align="right" width="23rem" src="https://github.com/igorl1/igorl1/blob/master/assets/rocketseat.png?raw=true" alt="Rocketseat: @igoroliveira"/></a>
-<a href="https://www.instagram.com/l1.igor/" target="_blank" rel="nofollow"><img align="right" width="23rem" src="https://github.com/igorl1/igorl1/blob/master/assets/instagram.png?raw=true" alt="Instagram: @l1.igor"/></a>
-<a href="https://twitter.com/igoralonge/" target="_blank" rel="nofollow"><img align="right" width="23rem" src="https://github.com/igorl1/igorl1/blob/master/assets/twitter.png?raw=true" alt="Twitter: @igoralonge"/></a>
+<a href="https://app.rocketseat.com.br/me/igoroliveira/" target="_blank" rel="nofollow"><img align="right" width="23rem" src="https://raw.githubusercontent.com/igorl1/igorl1/main/assets/rocketseat.png" alt="Rocketseat: @igoroliveira"/></a>
+<a href="https://www.instagram.com/l1.igor/" target="_blank" rel="nofollow"><img align="right" width="23rem" src="https://raw.githubusercontent.com/igorl1/igorl1/main/assets/instagram.png" alt="Instagram: @l1.igor"/></a>
+<a href="https://twitter.com/igoralonge/" target="_blank" rel="nofollow"><img align="right" width="23rem" src="https://raw.githubusercontent.com/igorl1/igorl1/main/assets/twitter.png" alt="Twitter: @igoralonge"/></a>
 
 ---
 
