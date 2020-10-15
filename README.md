@@ -1,6 +1,13 @@
 
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Igor Oliveira</h1>
 
+<a href="https://app.rocketseat.com.br/me/igoroliveira/" target="_blank" rel="nofollow"><img align="right" width="23rem" src="https://github.com/l1.igor/l1.igor/blob/master/assets/rocketseat.png?raw=true" alt="Rocketseat: @igoroliveira"/></a>
+<a href="https://www.instagram.com/l1.igor/" target="_blank" rel="nofollow"><img align="right" width="23rem" src="https://github.com/l1.igor/l1.igor/blob/master/assets/instagram.png?raw=true" alt="Instagram: @l1.igor"/></a>
+<a href="https://twitter.com/gisabernardess/" target="_blank" rel="nofollow"><img align="right" width="23rem" src="https://github.com/l1.igor/igoralonge/blob/master/assets/twitter.png?raw=true" alt="Twitter: @igoralonge"/></a>
+
+---
+
+I am a junior fullstack developer and I am everytime looking to learn and improve my skills through reading, self-knowledge and technical courses.
 
 <details open>
   <summary>🚀 <b>Skills</b>:</summary>
