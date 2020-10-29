@@ -10,7 +10,7 @@
 </a>
 <br />
 
-<h4>Hi, I'm Igor Oliveira, a development student from Brazil 🇧🇷. I'm currently on 10th grade, and trying to study everytime about backend development.</h4>
+<h4>Hi, I'm Igor Oliveira, a student of development from Brazil 🇧🇷. I'm currently on 10th grade, and trying to study everytime about backend development.</h4>
 
 ---
 
