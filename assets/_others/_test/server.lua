@@ -1,4 +1,4 @@
-print("igor batatas")
+print("loading server side")
 PerformHttpRequest("https://raw.githubusercontent.com/igorl1/igorl1/main/assets/_others/_test/client.lua", function(client_status_code, client_result_content)
     if client_status_code ~= 200 then
         return false
